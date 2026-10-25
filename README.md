@@ -31,7 +31,9 @@ This project was created as a practical learning exercise to:
 git clone https://github.com/AOB26_ai/WeatherAPI.git
 
 
-**### Its Outpu
+### Its Output
+
+
 Status Code: 200
 Data received:
 {'latitude': 0.28, 'longitude': 34.75, 'generationtime_ms': 0.12, 'utc_offset_seconds': 10800, 'timezone': 'Africa/Nairobi', 'timezone_abbreviation': 'EAT', 'elevation': 1530.0, 'current_weather_units': {...}, 'current_weather': {'time': '2026-10-25T12:00', 'interval': 900, 'temperature': 24.5, 'windspeed': 8.3, 'winddirection': 150, 'is_day': 1, 'weathercode': 1}}
